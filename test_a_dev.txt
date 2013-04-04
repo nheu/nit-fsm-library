@@ -1,0 +1,9 @@
+test n°1 : ajout d'un élément non autorisé à l'alphabet (résultat attendu : erreur)
+
+test n°2 : création de plusieurs états initiaux (résultat attendu : erreur)
+
+test n°3 : création d'une transition directement (résultat attendu : impossible)
+
+test n°4 : création d'un état directement sans passer par le builder (résultat attendu : impossible)
+
+test n°5 : 
